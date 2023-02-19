@@ -23,6 +23,6 @@ To create a Node.js command-line application with MySQL that allows non-develope
  
 ## Links
 
-Video Link: 
+Video Link: https://drive.google.com/file/d/1q97QG-vHDVZVj9DNn06G8xSLmbgU5VMC/view
 
 GitHub Link: https://github.com/hussrizk56/Huss-TM-Tracker
